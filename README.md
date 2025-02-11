@@ -1,4 +1,4 @@
-# Smart Siren (Ambulance-Tracker) 🚑
+# Smart Siren (Realtime-ambulance-web-tracking) 🚑
 
 This web app assists hospitals by bridging the communication gap between Ambulance driver and hospital management especially during emergency cases. This web app successfully tracks and alerts hospital management by which delay in treatment of patient can be reduced. This could potentially save lives.
 
@@ -8,7 +8,7 @@ This webapp was built using `ReactJS`, `Node.js`, `Express`, `MongoDB`, `Socket.
 
 To install the webapp, run the following commands:-
 
-    - https://github.com/csgeeek/Ambulance-tracker.git
+    - https://github.com/onkarf1/Realtime-ambulance-web-tracking.git
     - npm install (in server, clients folders)
 
 To initialize the project follow the below steps:- 
@@ -20,7 +20,6 @@ To initialize the project follow the below steps:-
 Run the project => `npm start`
 
 ## Links
-Check out the working of my project [here](https://youtu.be/KkqGRHMl9Sk).
 
 Check out the deployed web app [here](https://react-amb-driver.herokuapp.com/ ).
 
